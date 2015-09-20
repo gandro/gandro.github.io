@@ -1,0 +1,22 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               gandro’s blog
+description:         gandro’s blog
+url:                 http://gandro.github.io
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Sebastian Wicki
+  github:            https://github.com/gandro
+  twitter:           https://twitter.com/gandro23
+  email:             gandro@gmx.net
+
+# Custom vars
+version:             1.0.0
