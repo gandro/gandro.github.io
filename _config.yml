@@ -6,6 +6,7 @@ relative_permalinks: true
 
 # Setup
 title:               gandro’s blog
+tagline:
 description:         gandro’s blog
 url:                 http://gandro.github.io
 baseurl:             ''
