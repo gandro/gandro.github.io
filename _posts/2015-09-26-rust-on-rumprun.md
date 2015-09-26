@@ -12,7 +12,7 @@ for quite some while now. However, most Rust applications depend on the
 operating system to run.
 
 This is where the 
-[Rumprun unikernel platform](https://github.com/rumpkernel/rumprun) comes into
+[Rumprun unikernel platform](http://repo.rumpkernel.org/rumprun) comes into
 play. It allows you to build your POSIX applications into bootable
 single-purpose images. Because unikernels are tailored to run a single
 application, they come without the footprint of a full-featured operating system.
@@ -22,7 +22,7 @@ your image on bare-metal hardware.
 In the last couple of days we have been working on Rumprun support for
 Rust -- you can now deploy your Rust application as a Rumprun unikernel. 
 
-Rumprun is based on [rump kernels](http://rumpkernels.org), it reuses
+Rumprun is based on [rump kernels](http://rumpkernel.org), it reuses
 NetBSD's libc and drivers as components to provide a POSIX-y interface.
 Being a unikernel, you can choose the subsystems and drivers that you want to
 compile into your image. Since there is only one application running, there is
@@ -60,7 +60,7 @@ The Rust source tree already contains all patches needed to build for Rumprun.
 However, even if you have a recent Rust compiler installed in your system, you
 still need to cross-compile the standard library for Rumprun.
 
-The [rumprun-packages](https://github.com/rumpkernel/rumprun-packages)
+The [rumprun-packages](http://repo.rumpkernel.org/rumprun-packages)
 repository contains the necessary scripts to set up a Rust cross-compiler
 and `std` crate for Rumprun from source, just follow 
 [the provided instructions](https://github.com/rumpkernel/rumprun-packages/blob/rust/rust/README.md).
