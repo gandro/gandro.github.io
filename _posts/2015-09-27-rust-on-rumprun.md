@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Running Rust on the Rumprun unikernel
-published: false
+published: true
 ---
 
 The [Rust](https://www.rust-lang.org/) programming language has been able to
