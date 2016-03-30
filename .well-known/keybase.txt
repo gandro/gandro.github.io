@@ -1,0 +1,52 @@
+https://keybase.io/gandro
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://gandro.github.io
+  * I am gandro (https://keybase.io/gandro) on keybase.
+  * I have a public key ASBBoeBKPqHZuf7WCDp1CpQeYc967JsyjhU_r3XHhZiNrQo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01016194e7b32160efa95f31dd53cd4e73f501634bf9a9f02466eb8a15b5f0f6ecc30a",
+            "host": "keybase.io",
+            "kid": "012041a1e04a3ea1d9b9fed6083a750a941e61cf7aec9b328e153faf75c785988dad0a",
+            "uid": "6cefed6fa68e7a3ba6f3415faf6c5800",
+            "username": "gandro"
+        },
+        "service": {
+            "hostname": "gandro.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.14"
+    },
+    "ctime": 1459366940,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1459366840,
+        "hash": "fbb59500255afecb69f252b47165253bfd793ff36044cd80136b7b217cade1ef35d253fce58d39d881abbf4a83ba40a2277b87b07deee167f63db352c5ac24ed",
+        "seqno": 425441
+    },
+    "prev": "60e4bb29a5fffe527095e927f164715621243c550a08f764dd9d1154b2d7ad7c",
+    "seqno": 12,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgQaHgSj6h2bn+1gg6dQqUHmHPeuybMo4VP691x4WYja0Kp3BheWxvYWTFAvd7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxNjE5NGU3YjMyMTYwZWZhOTVmMzFkZDUzY2Q0ZTczZjUwMTYzNGJmOWE5ZjAyNDY2ZWI4YTE1YjVmMGY2ZWNjMzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNDFhMWUwNGEzZWExZDliOWZlZDYwODNhNzUwYTk0MWU2MWNmN2FlYzliMzI4ZTE1M2ZhZjc1Yzc4NTk4OGRhZDBhIiwidWlkIjoiNmNlZmVkNmZhNjhlN2EzYmE2ZjM0MTVmYWY2YzU4MDAiLCJ1c2VybmFtZSI6ImdhbmRybyJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiZ2FuZHJvLmdpdGh1Yi5pbyIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE0In0sImN0aW1lIjoxNDU5MzY2OTQwLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0NTkzNjY4NDAsImhhc2giOiJmYmI1OTUwMDI1NWFmZWNiNjlmMjUyYjQ3MTY1MjUzYmZkNzkzZmYzNjA0NGNkODAxMzZiN2IyMTdjYWRlMWVmMzVkMjUzZmNlNThkMzlkODgxYWJiZjRhODNiYTQwYTIyNzdiODdiMDdkZWVlMTY3ZjYzZGIzNTJjNWFjMjRlZCIsInNlcW5vIjo0MjU0NDF9LCJwcmV2IjoiNjBlNGJiMjlhNWZmZmU1MjcwOTVlOTI3ZjE2NDcxNTYyMTI0M2M1NTBhMDhmNzY0ZGQ5ZDExNTRiMmQ3YWQ3YyIsInNlcW5vIjoxMiwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEAQVhA79W7Fuz+gNvE+KzzIB3ZK6b+IKghx3mPOuV1A5PyPdCazNhDGcrZeIsf1UHbQlreKfZSisuJC9ts1KIsKqHNpZ190eXBlIKN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gandro
+
