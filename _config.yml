@@ -21,3 +21,6 @@ author:
 version:             1.0.0
 
 include:             ['.well-known']
+
+plugins:
+  - jekyll-redirect-from
